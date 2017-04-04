@@ -8,12 +8,12 @@
 
 # Linux Commands for 
 
-#WHO           whoami tells me which user I am logged in as (who)
+#whoami         tells me which user I am logged in as (who)
 
-#WHERE         pwd stands for print working directory and tells me where I am (where)
+#pwd         pwd stands for print working directory and tells me where I am (where)
 
-#WHAT          ls Tells me which files are in the directory (what)
+#ls        ls Tells me which files are in the directory (what)
 
-#NAVIGATION    cd allows me to change to other directories (navigation)
+#cd  cd allows me to change to other directories (navigation)
  
-#WHEN          what time is it on the machine (when)
+#date         what time is it on the machine (when)

@@ -20,6 +20,6 @@
 
 
 /var/root # cat test.sh                                                         
-!#/bin/sh                                                                       
+#!/bin/sh                                                                       
                                                                                 
 echo "something fun" 

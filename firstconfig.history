@@ -1,0 +1,83 @@
+    1  sudo su
+    2  whoami
+    3  ps
+    4  ps aux
+    5  ps aux| exit
+    6  ps aux | more
+    7  ps aux | grep firefox
+    8  kill 2452
+    9  ps aux | grep terminal
+   10  kill 1995
+   11  clear
+   12  top
+   13  lsof | more
+   14  man more
+   15  lsof | more
+   16  su
+   17  root
+   18  su
+   19  pstree
+   20  /usr/bin/libreoffice&
+   21  q
+   22  /usr/bin/libreoffice
+   23  q
+   24  clear
+   25  ps aux | grep libreoffice
+   26  /usr/bin/libreoffice&
+   27  ps aux | grep libreoffice
+   28  top
+   29  /usr/bin/libreoffice&
+   30  q
+   31  /usr/bin/libreoffice&
+   32  q
+   33  ls /
+   34  ls -l
+   35  q
+   36  ls -l
+   37  ls -l /user/bin/li
+   38  ls -l /user/bin/libreoffice
+   39  ls -l /usr/bin/libreoffice
+   40  /usr/lib/libreoffice/program/soffice
+   41  cd ~
+   42  cd desktop
+   43  cd desktop/
+   44  cd Desktop/
+   45  echo "test" >> test.text
+   46  vim 
+   47  vi test.sh
+   48  sudo su
+   49  git
+   50  PS1='\[\e[1;34m\][\d \t \u@\h \w]\$\[\e[m\] '
+   51  PS1='\[\e[1;36m\][\d \t \u@\h \w]\$\[\e[m\] '
+   52  PS1='\[\e[1;34m\][\d \t \u@\h \w]\$\[\e[m\] '
+   53  git config user.name jcastro
+   54  git config user.name "jbcastro"
+   55  git clone https://github.com/jbcastro/itc-136.git
+   56  PS1='\[\e[1;36m\]\d \[\e[1;32m\]\t \[\e[1;33m\]\u@\[\e[1;35m\]\h:\w\$\[\e[0;31m\] '
+   57  PS1='\[\e[1;36m\]\d \[\e[1;32m\]\t \[\e[1;34m\]\u@\[\e[1;35m\]\h:\w\$\[\e[0;31m\] '
+   58  ls -l
+   59  cd itc-136
+   60  git config user.name "jbcastro"
+   61  history
+   62  git
+   63  ls -l
+   64  cd itc-136
+   65  cd...
+   66  cd
+   67  cd itc-136
+   68  cd .git
+   69  ls -la
+   70  git config --global user.email "josephbeckcastro@gmail.com"
+   71  git config --global user.name "jbcastro"
+   72  history >> firstconfig.history
+   73  ls -l
+   74  cd
+   75  cd itc-136
+   76  git add firstconfig.history
+   77  ls -l
+   78  cd .git
+   79  ls -l
+   80  cd
+   81  cd itc-136
+   82  git add firstconfig.history
+   83  history >> firstconfig.history

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.1
+Name=Stats
+Comment=genertated program
+Exec=/usr/bin/gnome-terminal -e/usr/local/bin/stats
+Icon=/home/itc-136/Pictures/open-source-logo.png
+Terminal=true
+Type=Application
+Categories=Utility;Application;

@@ -1,0 +1,78 @@
+    1  ls -l
+    2  ls
+    3  sudo su
+    4  useradd steve steve
+    5  user add steve
+    6  useradd steve
+    7  sudo su
+    8  history >>student.txt
+    1  top
+    2  useradd steve
+    3  usermod -L steve
+    4  git clone https://github.com/jbcastro/itc-136.git
+    5  apt install git
+    6  git clone https://github.com/jbcastro/itc-136.git
+    7  ps aux
+    8  w who
+    9  lastlog
+   10  apt-get install openssh-server
+   11  ssh zizi@172.31.83.154
+   12  ps aux
+   13  usermod help
+   14  usermod -help
+   15  passwd -l steve
+   16  usermod -L steve
+   17  cd etc/ssh
+   18  apt-get install vim
+   19  cd etc/ssh
+   20  apt-get install openssh-server
+   21  vim sshd_config
+   22  adduser bob
+   23  apt-get install openssh-server
+   24  apt-get install vim
+   25  cd etc/ssh
+   26  cd ..
+   27  cd etc/ssh
+   28  ls -ltra
+   29  cp sshd_config sshd_config.orig
+   30  vim sshd_config
+   31  pwd
+   32  ls -l
+   33  diff sshd_config sshd_config.orig
+   34  systemctl restart sshd
+   35  ipconfig
+   36  ifconfig
+   37  ls -a
+   38  cd ~
+   39  ls -a
+   40  ls
+   41  cd /home/student
+   42  ls
+   43  ls -a
+   44  start ssh
+   45  systemstl start sshd
+   46  cd ..
+   47  cd etc/ssh
+   48  systemstl start sshd
+   49  systemstl restart sshd
+   50  systemctl start sshd
+   51  ps aux
+   52  ps aux | grep bob
+   53  kill all -u bob
+   54  ps aux | grep bob
+   55  kill all -u bob
+   56  kill -u bob
+   57  kill -help
+   58  cd~
+   59  cd ..
+   60  kill all -u bob
+   61  kill all -u 7409
+   62  kill all 7409
+   63  ps aux | grep bob
+   64  killall -u bob
+   65  ps aux | grep bob
+   66  history>>root
+   67  history
+   68  history >>root.txt
+   69  sudo su
+   70  history >>student.txt
